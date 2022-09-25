@@ -1,4 +1,4 @@
-# adv_mirror_wall
+# Educational_web_browser
 
 A new Flutter project.
 
